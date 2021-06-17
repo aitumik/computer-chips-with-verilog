@@ -29,13 +29,18 @@ Add an image here to show how single bit binary adder works here
 * Shift Registers: <todo>
 
 ## How FPGA works
-
+* An FPGA is made up of logic cells(64 inputs and 1 output)
+* Logic blocks that make up FPGA use look up table(LUT)
+* Block of logic gates(LUT) look up table
 
 ## Drawing Logic
-
+* We need a software to draw this
 
 ## Introduction Verilog
-
+* Modules: Something like a class or just a module if you understand
+* Wires,Registers and Buses: varibales
+* There is parallel execution: Not single thread like microcontrollers
+* Number Format: 4'hF2 8 bit hex constant
 
 ## Modular Verilog
 
