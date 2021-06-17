@@ -8,8 +8,7 @@ In FPGA low is 0V while high can either be(1.8V,3.3V or 5V)
 
 * The NOT Gate(The inverter)
 The simplest logic gate. It has single input and single output
-
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="ihttps://circuitglobe.com/wp-content/uploads/2015/12/NOT-GATE-FIG-5-compressor.jpg">](NOT logic gate)
 
 
 
